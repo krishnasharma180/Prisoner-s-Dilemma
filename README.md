@@ -41,8 +41,8 @@ Alongside well-known strategies like *Tit-for-Tat* and *Grim Trigger*, I also in
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/krishnasharma180/Prisoner's_Dilemma.git
-   cd Prisoner's_Dilemma
+   git clone https://github.com/krishnasharma180/Prisoners_Dilemma.git
+   cd Prisoners_Dilemma
 
 2. Run the tornament:
    ```bash
